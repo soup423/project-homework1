@@ -1,1 +1,21 @@
-div {width: 600px;background-color: pink;}
+figcaption {
+    font-style:inherit;
+    font-weight: bold;
+    font-size: 26pt;
+}
+p {
+    margin-left: 40px;
+    margin-bottom: -10px;
+    font-size: 125%;
+}
+ul {
+    margin-bottom: 80px;
+    margin-left: 40px;
+    
+}
+li {
+    list-style-type:square;
+}
+li span {
+    font-weight: bold;
+}
