@@ -9,8 +9,9 @@ p {
     font-size: 125%;
 }
 ul {
-    margin-bottom: 80px;
+
     margin-left: 40px;
+    margin-bottom: -10px;
     
 }
 li {
@@ -18,4 +19,16 @@ li {
 }
 li span {
     font-weight: bold;
+}
+.special {
+    margin-bottom: 80px;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    text-decoration: none;
 }
